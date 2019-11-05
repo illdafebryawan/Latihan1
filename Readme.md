@@ -21,5 +21,3 @@ Untuk memulai, Anda bisa membuat repository atau men-checkout yang sudah ada. Se
 Membuat file dengan perintah, contoh 'echo "# Latihan1" > Readme.md' Mengedit isi file tersebut dengan perintah 'nano <nama_file>' Gunakan perintah "git add" setelah melakukan perubahan
 
 Jika telah yakin dengan perubahannya, berikan catatan dengan menggunakan perintah 'git commit -m "catatan"' Membuat sambungan antara repository lokal dengan server dengan perintah 'git remote add origin ' Mengirim perubahan ke server dengan perintah 'git push -u origin master'
-
-![2019-11-05](https://user-images.githubusercontent.com/57079848/68187866-64c38780-ffda-11e9-957d-af3966b2da31.png)
